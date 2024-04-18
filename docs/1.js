@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmicro_react_webpack_module=self.webpackChunkmicro_react_webpack_module||[]).push([[1],[,(e,c,t)=>{t.r(c),t.d(c,{default:()=>r});var l=t(769),n=t.n(l);const r=function(){return n().createElement("div",null,n().createElement("h1",null,"Hello from My React Component"))}}]]);
