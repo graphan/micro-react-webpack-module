@@ -26,7 +26,7 @@ module.exports = {
       template: './public/index.html'
     }),
     new ModuleFederationPlugin({
-      name: 'MyReactComponent',
+      name: 'OurReactComponent',
       filename: 'remoteEntry.js',
       exposes: {
         './Component': './src/Component',
